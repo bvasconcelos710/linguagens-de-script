@@ -1,0 +1,1 @@
+Repositório para os projetos feitos na disciplina de Linguagens de Script.
